@@ -1,0 +1,86 @@
+.title {
+    text-align: center;
+}
+
+h2 {
+    border-bottom: 1px solid black;
+}
+
+p {
+    padding: 0 2rem 0 2rem;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+#preamble {
+    max-width: 60rem;
+    margin: auto;
+}
+
+#preamble .title {
+    text-align: center;
+}
+
+#preamble ul {
+    padding: 0;
+    text-align: center;
+}
+
+#preamble ul li {
+    display: inline-block;
+    list-style: none;
+    padding: 0 0 0 0.5rem;
+}
+
+#preamble a {
+    color:blue;
+    text-decoration: none;
+}
+
+#content {
+    max-width: 60rem;
+    margin: auto;
+}
+
+#content > table {
+    /* ページコンテンツではない、上部に設置しているリンクをまとめたテーブル */
+    /* orgのどのheadlineにも属さず id・class による指定が難しいため #contents 直下として特定する */
+    margin: auto;
+    border: none;
+}
+
+#content > table > tbody {
+    /* ページコンテンツではない、上部に設置しているリンクをまとめたテーブル */
+    /* orgのどのheadlineにも属さず id・class による指定が難しいため #contents 直下として特定する */
+    font-size: 1.2rem;
+    border: none;
+}
+
+#content > table > colgroup {
+    /* ページコンテンツではない、上部に設置しているリンクをまとめたテーブル */
+    /* orgのどのheadlineにも属さず id・class による指定が難しいため #contents 直下として特定する */
+    border: none;
+}
+
+#table-of-ontents {
+    padding: 2rem;
+}
+
+#postamble {
+    max-width: 60rem;
+    margin: auto;
+}
+
+#postamble ul {
+    text-align: center;
+    padding: 0;
+}
+
+#postamble ul li {
+    display: inline-block;
+    list-style: none;
+    padding: 0 0 0 0.5rem;
+}

@@ -1,0 +1,15 @@
+#+TITLE: 連絡先
+#+AUTHOR: GenieYK
+#+CREATOR: GenieYK
+#+DATE: <2023-07-04 Tue>
+#+EMAIL: username@example.com
+#+LANGUAGE: ja
+#+OPTIONS: ^:{}
+
+* このページについて
+
+本ページは雛形として用意されたボイラーテンプレートが未加工のまま表示されているものとなります。
+
+** 主な連絡先
+
+ここに主要な連絡先を記載する。
