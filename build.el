@@ -28,4 +28,4 @@
 </ul>
 ")))
 
-(org-publish-all)
+(org-publish-all t)
