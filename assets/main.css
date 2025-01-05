@@ -65,8 +65,9 @@ a {
     border: none;
 }
 
-#table-of-ontents {
-    padding: 2rem;
+#table-of-contents {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
 }
 
 #postamble {
